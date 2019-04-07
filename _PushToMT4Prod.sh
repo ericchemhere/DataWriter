@@ -5,5 +5,5 @@ mkdir "/Applications/Terminal3.app/Contents/Resources/drive_c/Program Files/FxPr
 cp "/Users/testmachine/Documents/GitHub/DataWriter/DataWriter_v4.01.mq4" "/Applications/Terminal1.app/Contents/Resources/drive_c/Program Files/FxPro - MetaTrader 4/MQL4/Experts/DataWriter/DataWriter_v4.01.mq4"
 
 # idem for Terminal 3
-cp "/Users/testmachine/Documents/GitHub/FALCON_A/Falcon_A.mq4" "/Applications/Terminal3.app/Contents/Resources/drive_c/Program Files/FxPro - MetaTrader 4/MQL4/Experts/DataWriter/DataWriter_v4.01.mq4"
+cp "/Users/testmachine/Documents/GitHub/DataWriter/DataWriter_v4.01.mq4" "/Applications/Terminal3.app/Contents/Resources/drive_c/Program Files/FxPro - MetaTrader 4/MQL4/Experts/DataWriter/DataWriter_v4.01.mq4"
 
